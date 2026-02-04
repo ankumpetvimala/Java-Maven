@@ -150,7 +150,10 @@ This confirms the build was successful.
 ✅ **Project Status: Completed Successfully**
 
 ## Screenshots
-![Build Success](build-success.png)
+![Build Success] <img width="1366" height="768" alt="Build sucess" src="https://github.com/user-attachments/assets/44d18d6e-4842-4242-8f78-e402531fbae8" /> 
+<img width="1366" height="768" alt="Hello snapshot" src="https://github.com/user-attachments/assets/3efad0c3-a32c-473b-805e-309d3fcf7a97" />
+
+
 
 
 ## 🧠 Challenges and Key Learning
