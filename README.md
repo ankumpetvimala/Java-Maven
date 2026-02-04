@@ -158,9 +158,9 @@ This confirms the build was successful.
 
 ## 🧠 Challenges and Key Learning
 
-**Challenge**: Ensuring Jenkins could access the project files in the Docker container.
-**Solution**: Copied files to the Jenkins workspace using `docker cp`.
-**Learning**: Understood how Jenkins integrates with Maven and the importance of console output for debugging.
+* **Challenge**: Ensuring Jenkins could access the project files in the Docker container.
+* **Solution**: Copied files to the Jenkins workspace using `docker cp`.
+* **Learning**: Understood how Jenkins integrates with Maven and the importance of console output for debugging.
 * Maven standard project structure
 * Dependency management
 * Build automation using Maven lifecycle
