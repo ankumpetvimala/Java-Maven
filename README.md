@@ -17,7 +17,6 @@ Create a Maven-based Java project, understand the `pom.xml` structure, add depen
 * Java (JDK 11 / 17)
 * Apache Maven
 * Git & GitHub
-* Linux (Ubuntu)
 * AWS EC2 (Ubuntu 22.04, t2.micro)
 * Jenkins (via Docker)
 * Maven 3.8.6
@@ -159,10 +158,10 @@ This confirms the build was successful.
 - **Challenge**: Ensuring Jenkins could access the project files in the Docker container.
 - **Solution**: Copied files to the Jenkins workspace using `docker cp`.
 - **Learning**: Understood how Jenkins integrates with Maven and the importance of console output for debugging.
-- * Maven standard project structure
-- * Dependency management
-- * Build automation using Maven lifecycle
-- * CI-ready Java project
+  * Maven standard project structure
+  * Dependency management
+  * Build automation using Maven lifecycle
+  * CI-ready Java project
 
 
 
